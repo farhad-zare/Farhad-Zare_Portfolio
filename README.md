@@ -1,4 +1,4 @@
 # Farhad-Zare_Portfolio
 
-# Linear Regression Automobile 
+# Project 1: Linear Regression Automobile 
 
